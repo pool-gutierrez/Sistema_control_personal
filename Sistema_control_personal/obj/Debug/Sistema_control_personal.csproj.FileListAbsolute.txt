@@ -1,0 +1,326 @@
+c:\users\erick\documents\visual studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe.config
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.pdb
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.csprojResolveAssemblyReference.cache
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Properties.Resources.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.csproj.GenerateResource.Cache
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.exe
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.pdb
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Consulta_cod.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Login.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Principal.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Emp_alta.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Emp_baja.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte_asistencia.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Infosistema.resources
+F:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe.config
+F:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.exe
+F:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.pdb
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe.config
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.exe
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.pdb
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.pdb
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.csprojResolveAssemblyReference.cache
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Asistencia.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Consulta_cod.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Departamento.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Emp_alta.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Emp_baja.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Infosistema.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Login.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Principal.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Properties.Resources.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_empleado.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_horario.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte_asistencia.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Usuarios.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Proyecto_visual_control_personal\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.csproj.GenerateResource.Cache
+E:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe.config
+E:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.exe
+E:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.pdb
+E:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe
+E:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.pdb
+E:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Entidades.dll
+E:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Negocio.dll
+E:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Datos.dll
+E:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Entidades.pdb
+E:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Negocio.pdb
+E:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Datos.pdb
+E:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.csprojResolveAssemblyReference.cache
+E:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Consulta_cod.resources
+E:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Emp_alta.resources
+E:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Emp_baja.resources
+E:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Infosistema.resources
+E:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Login.resources
+E:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Principal.resources
+E:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Properties.Resources.resources
+E:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_empleado.resources
+E:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_horario.resources
+E:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte_asistencia.resources
+E:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.csproj.GenerateResource.Cache
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe.config
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.exe
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.pdb
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe.config
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.exe
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.pdb
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.pdb
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Entidades.dll
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Negocio.dll
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Datos.dll
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Entidades.pdb
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Negocio.pdb
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Datos.pdb
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.csprojResolveAssemblyReference.cache
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Consulta_cod.resources
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Emp_alta.resources
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Emp_baja.resources
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Infosistema.resources
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Login.resources
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Principal.resources
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Properties.Resources.resources
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_empleado.resources
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_horario.resources
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte_asistencia.resources
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.csproj.GenerateResource.Cache
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\bin\Debug\Entidades.dll
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\bin\Debug\Negocio.dll
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\bin\Debug\Datos.dll
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\bin\Debug\Entidades.pdb
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\bin\Debug\Negocio.pdb
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\bin\Debug\Datos.pdb
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_asistencia.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_usuarios.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_departamento.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe.config
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.exe
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.pdb
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.pdb
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Entidades.dll
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Negocio.dll
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Datos.dll
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Entidades.pdb
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Negocio.pdb
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Datos.pdb
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.csprojResolveAssemblyReference.cache
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_asistencia.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Consulta_cod.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_departamento.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Emp_alta.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Emp_baja.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Infosistema.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Login.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Principal.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Properties.Resources.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_empleado.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_horario.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte_asistencia.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_usuarios.resources
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.csproj.GenerateResource.Cache
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_asistencia.resources
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_departamento.resources
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_usuarios.resources
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.pdb
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Bunifu_UI_v1.5.3.dll
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Entidades.dll
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Negocio.dll
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Datos.dll
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Entidades.pdb
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Negocio.pdb
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\bin\Debug\Datos.pdb
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.csprojResolveAssemblyReference.cache
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_asistencia.resources
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Consulta_cod.resources
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_departamento.resources
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Emp_alta.resources
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Emp_baja.resources
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Infosistema.resources
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Login.resources
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Principal.resources
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Properties.Resources.resources
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_empleado.resources
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_horario.resources
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte_asistencia.resources
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_usuarios.resources
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.csproj.GenerateResource.Cache
+E:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Prn_emp.resources
+E:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_asistencia.resources
+E:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_departamento.resources
+E:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_usuarios.resources
+E:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Rep_asist.resources
+F:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe.config
+F:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.exe
+F:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.pdb
+H:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe.config
+H:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.exe
+H:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.pdb
+F:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe
+F:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.pdb
+F:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Entidades.dll
+F:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Negocio.dll
+F:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Datos.dll
+F:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Entidades.pdb
+F:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Negocio.pdb
+F:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Datos.pdb
+F:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.csprojResolveAssemblyReference.cache
+F:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Prn_emp.resources
+F:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_asistencia.resources
+F:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Consulta_cod.resources
+F:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_departamento.resources
+F:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Emp_alta.resources
+F:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Emp_baja.resources
+F:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Infosistema.resources
+F:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Login.resources
+F:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Principal.resources
+F:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Properties.Resources.resources
+F:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_empleado.resources
+F:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_horario.resources
+F:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte_asistencia.resources
+F:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_usuarios.resources
+F:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Rep_asist.resources
+F:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.csproj.GenerateResource.Cache
+G:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe.config
+G:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.exe
+G:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.pdb
+G:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe
+G:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.pdb
+G:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Bunifu_UI_v1.5.3.dll
+G:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Entidades.dll
+G:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Negocio.dll
+G:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Datos.dll
+G:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Entidades.pdb
+G:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Negocio.pdb
+G:\Sistema_control_personal\Sistema_control_personal\bin\Debug\Datos.pdb
+G:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.csprojResolveAssemblyReference.cache
+G:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Prn_emp.resources
+G:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_asistencia.resources
+G:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Consulta_cod.resources
+G:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_departamento.resources
+G:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Emp_alta.resources
+G:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Emp_baja.resources
+G:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Infosistema.resources
+G:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Login.resources
+G:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Principal.resources
+G:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Properties.Resources.resources
+G:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_empleado.resources
+G:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_horario.resources
+G:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte_asistencia.resources
+G:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_usuarios.resources
+G:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Rep_asist.resources
+G:\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.csproj.GenerateResource.Cache
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe.config
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.exe
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.pdb
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.pdb
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\bin\Debug\Entidades.dll
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\bin\Debug\Negocio.dll
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\bin\Debug\Datos.dll
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\bin\Debug\Entidades.pdb
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\bin\Debug\Negocio.pdb
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\bin\Debug\Datos.pdb
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.csprojResolveAssemblyReference.cache
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Prn_emp.resources
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_asistencia.resources
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Consulta_cod.resources
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_departamento.resources
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Emp_alta.resources
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Emp_baja.resources
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Infosistema.resources
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Login.resources
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Principal.resources
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Properties.Resources.resources
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_empleado.resources
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_horario.resources
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte_asistencia.resources
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_usuarios.resources
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Rep_asist.resources
+E:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.csproj.GenerateResource.Cache
+F:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe.config
+F:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.exe
+F:\Sistemas\Back\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.pdb
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte.Reporte_x_emp.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\RdlCompile.cache
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\RdlCompile.compiled
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_cargos.resources
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Prn_emp.resources
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte.Reporte_x_emp.resources
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Rep_asist.resources
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\RdlCompile.cache
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Sistema_control_personal\obj\Debug\RdlCompile.compiled
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_cargo.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Principal_emp.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_empleado.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_horario.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte_asistencia_emp.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_turno.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_cuentapersonal.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Informe_general.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte.Reporte_x_fecha.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte.Reporte_x_prmt.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte.Reporte_general.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte.Reporte_x_empfecha.resources
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe.manifest
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.application
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.exe.manifest
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.application
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.TrustInfo.xml
+D:\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe.config
+D:\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.exe
+D:\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.pdb
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe.config
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.exe
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.pdb
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe.manifest
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.application
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.exe
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\bin\Debug\Sistema_control_personal.pdb
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\bin\Debug\Entidades.dll
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\bin\Debug\Negocio.dll
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\bin\Debug\Datos.dll
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\bin\Debug\Entidades.pdb
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\bin\Debug\Negocio.pdb
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\bin\Debug\Datos.pdb
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.csprojResolveAssemblyReference.cache
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_cargo.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_cuentapersonal.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_turno.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Informe_general.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Principal_emp.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Registro_asistencia.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Consulta_cod.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_departamento.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Emp_alta.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Emp_baja.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Infosistema.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Login.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Principal.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Properties.Resources.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_empleado.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_horario.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte.Reporte_general.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte.Reporte_x_emp.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte.Reporte_x_empfecha.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte.Reporte_x_fecha.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte.Reporte_x_prmt.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte_asistencia.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Adm_usuarios.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.Reporte_asistencia_emp.resources
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.csproj.GenerateResource.Cache
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\RdlCompile.cache
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\RdlCompile.compiled
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.TrustInfo.xml
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.exe.manifest
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Sistema_control_personal\obj\Debug\Sistema_control_personal.application

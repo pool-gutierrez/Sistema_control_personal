@@ -1,0 +1,56 @@
+E:\Sistema_control_personal\Datos\bin\Debug\Datos.dll
+E:\Sistema_control_personal\Datos\bin\Debug\Datos.pdb
+E:\Sistema_control_personal\Datos\bin\Debug\Entidades.dll
+E:\Sistema_control_personal\Datos\bin\Debug\Entidades.pdb
+E:\Sistema_control_personal\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\Sistema_control_personal\Datos\obj\Debug\Datos.dll
+E:\Sistema_control_personal\Datos\obj\Debug\Datos.pdb
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\bin\Debug\Datos.dll
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\bin\Debug\Datos.pdb
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\bin\Debug\Entidades.dll
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\bin\Debug\Entidades.pdb
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\obj\Debug\Datos.dll
+F:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\obj\Debug\Datos.pdb
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Datos\bin\Debug\Datos.dll
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Datos\bin\Debug\Datos.pdb
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Datos\bin\Debug\Entidades.dll
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Datos\bin\Debug\Entidades.pdb
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Datos\obj\Debug\Datos.dll
+C:\Users\ERICK\Documents\Visual Studio 2013\Projects\Sistema_control_personal\Datos\obj\Debug\Datos.pdb
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\bin\Debug\Datos.dll
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\bin\Debug\Datos.pdb
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\bin\Debug\Entidades.dll
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\bin\Debug\Entidades.pdb
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\obj\Debug\Datos.dll
+E:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\obj\Debug\Datos.pdb
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\bin\Debug\Datos.dll
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\bin\Debug\Datos.pdb
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\bin\Debug\Entidades.dll
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\bin\Debug\Entidades.pdb
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\obj\Debug\Datos.dll
+G:\Sistemas\3er ciclo\Herramientas de programación\Sistema_control_personal\Datos\obj\Debug\Datos.pdb
+F:\Sistema_control_personal\Datos\bin\Debug\Datos.dll
+F:\Sistema_control_personal\Datos\bin\Debug\Datos.pdb
+F:\Sistema_control_personal\Datos\bin\Debug\Entidades.dll
+F:\Sistema_control_personal\Datos\bin\Debug\Entidades.pdb
+F:\Sistema_control_personal\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+F:\Sistema_control_personal\Datos\obj\Debug\Datos.dll
+F:\Sistema_control_personal\Datos\obj\Debug\Datos.pdb
+E:\Sistemas\Back\Sistema_control_personal\Datos\bin\Debug\Datos.dll
+E:\Sistemas\Back\Sistema_control_personal\Datos\bin\Debug\Datos.pdb
+E:\Sistemas\Back\Sistema_control_personal\Datos\bin\Debug\Entidades.dll
+E:\Sistemas\Back\Sistema_control_personal\Datos\bin\Debug\Entidades.pdb
+E:\Sistemas\Back\Sistema_control_personal\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\Sistemas\Back\Sistema_control_personal\Datos\obj\Debug\Datos.dll
+E:\Sistemas\Back\Sistema_control_personal\Datos\obj\Debug\Datos.pdb
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Datos\bin\Debug\Datos.dll
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Datos\bin\Debug\Datos.pdb
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Datos\bin\Debug\Entidades.dll
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Datos\bin\Debug\Entidades.pdb
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Datos\obj\Debug\Datos.dll
+E:\Backup\Copia de seguridad\Escritorio\Exposición final\SCP\SCP_COMPLETO\Sistema_control_personal\Datos\obj\Debug\Datos.pdb
